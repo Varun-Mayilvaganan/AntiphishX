@@ -6,7 +6,7 @@ For this project, we sourced our datasets from reputable open-source platforms t
 
 2. **Legitimate URLs**: The legitimate URLs were sourced from the **University of New Brunswick**, which offers a comprehensive open dataset containing benign, spam, phishing, malware, and defacement URLs. For our purposes, we specifically selected the benign URL subset. Again, we took **5,000 random legitimate URLs** from this dataset to ensure our model learns from a balanced perspective. This dataset can be accessed at [UNB URL Dataset](https://www.unb.ca/cic/datasets/url-2016.html).
 
-Both datasets have been uploaded to the ([data_folder](https://github.com/Varun-Mayilvaganan/AntiphishX/tree/6fc14092c65c252fac0c6f26b67be6747bcb0483/data_folder)) folder of this repository for your convenience.
+Both datasets have been uploaded to the [data_folder](https://github.com/Varun-Mayilvaganan/AntiphishX/tree/6fc14092c65c252fac0c6f26b67be6747bcb0483/data_folder) folder of this repository for your convenience.
 
 ### GAN generated data
 
