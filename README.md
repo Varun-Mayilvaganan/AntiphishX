@@ -17,5 +17,10 @@ The main goal of this project is to develop a robust phishing website detection 
 
 4. **Interactive Notebooks**:  
    - Use **Google colab** or **Jupyter notebooks** to facilitate running experiments, tuning models, and visualizing results, making it easy for us to explore and modify the code.
-     
+## Our Ideawork
+
+<p align="center">
+  <img src="https://github.com/Varun-Mayilvaganan/AntiphishX/blob/747e0a1a572e39ff14e27823193e2899580ab795/our_methodology.png" alt="workflow" />
+</p>
+
 
