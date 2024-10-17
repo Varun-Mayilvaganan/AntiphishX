@@ -1,4 +1,4 @@
-# AntiphishX
+# AntiphishX - Varun, Dr. Sina Keshvadi
 A robust phishing detection framework that leverages advanced machine learning techniques, including adversarial training and multi-modal feature extraction. By analyzing diverse data sources such as URLs, HTML content, metadata, and user behavior, AntiPhishX uses GAN generated samples to avoid adversarial attacks.
 ## Objective  
 The main goal of this project is to develop a robust phishing website detection framework that can withstand adversarial attacks, particularly those generated using **Generative Adversarial Networks (GANs)**. By incorporating **adversarial training** and **multi-modal feature extraction** (URL analysis, HTML content inspection, and metadata interpretation), the project aims to improve the accuracy, reliability, and robustness of phishing detection systems, ensuring better protection against evolving cyber threats.
